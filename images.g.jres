@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAJCZmZmZmZkAkJmZmZmZmQCQmZmZmZmZAJAZERGZmZkAkBkREZmZmQCQGf8fmZmZAJAZ/x+ZmZkAkBn/H5mZmQCQGf8fmZmZAJAZ/x+ZmZkAkBkREZmZmQCQmZmZmZmZAJCZmZmZmZkA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image3": {
+        "data": "hwQQABAAAAB3d3d3d3d3B3d3d3d3d3cHd3d3d3d3/wd3d/9/d/d/B3d3/39393cHd3f/f3f3dwd3d3d3d/d3B3d3d3d393cHd3d3d3f3dwd3d3d3d/d3B3d3d3d393cHd3f/f3f3dwd3d/9/d/d/B3d3/393d/8Hd3d3d3d3dwd3d3d3d3d3Bw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myenemy"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAADgAAAAAAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
